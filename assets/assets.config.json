@@ -10,5 +10,35 @@
   },
   "footer_bkg.png": {
     "mime": "image/png"
+  },
+  "twitter-square logo.png": {
+    "mime": "image/png"
+  },
+  "twitter_vectore.png": {
+    "mime": "image/png"
+  },
+  "twitter_yellow300.png": {
+    "mime": "image/png"
+  },
+  "slack.png": {
+    "mime": "image/png"
+  },
+  "slack_logo.png": {
+    "mime": "image/png"
+  },
+  "github.png": {
+    "mime": "image/png"
+  },
+  "linkedin.png": {
+    "mime": "image/png"
+  },
+  "twitter.png": {
+    "mime": "image/png"
+  },
+  "youtube.png": {
+    "mime": "image/png"
+  },
+  "installation_figure.png": {
+    "mime": "image/png"
   }
 }
