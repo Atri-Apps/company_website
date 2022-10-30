@@ -1,1 +1,14 @@
-{}
+{
+  "logo_without_bg.png": {
+    "mime": "image/png"
+  },
+  "hero_section.png": {
+    "mime": "image/png"
+  },
+  "landing_page_img.png": {
+    "mime": "image/png"
+  },
+  "footer_bkg.png": {
+    "mime": "image/png"
+  }
+}
