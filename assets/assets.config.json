@@ -40,5 +40,8 @@
   },
   "installation_figure.png": {
     "mime": "image/png"
+  },
+  "github_darkmode.png": {
+    "mime": "image/png"
   }
 }
