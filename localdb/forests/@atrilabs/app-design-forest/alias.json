@@ -1,7 +1,9 @@
 {
-  "Flex": 153,
-  "Image": 36,
-  "TextBox": 154,
-  "Button": 8,
-  "Menu": 2
+  "Flex": 154,
+  "Image": 37,
+  "TextBox": 156,
+  "Button": 9,
+  "Menu": 2,
+  "Link": 1,
+  "Icon": 1
 }
