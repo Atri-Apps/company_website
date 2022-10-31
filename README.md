@@ -24,4 +24,4 @@ Company website built using Atri framework
 | <li>- [ ] </li>             | Footer             | Tutorials                  | https://docs.atrilabs.com/tutorials/bkg_swapper                |
 | <li>- [ ] </li>             | Footer             | Contribute                  | https://github.com/Atri-Labs/atrilabs-engine#how-to-contribute       |
 | <li>- [ ] </li>             | Footer             | Discussions                  | https://github.com/Atri-Labs/atrilabs-engine/discussions         |
-| <li>- [ ] </li>             | Footer             | Conference talks                  | https://docs.atrilabs.com/                |
+| <li>- [ ] </li>             | Footer             | Conference talks                  | https://github.com/Atri-Labs/conferences                |
