@@ -82,5 +82,8 @@
   },
   "rest_api.svg": {
     "mime": "image/svg+xml"
+  },
+  "github star button.svg": {
+    "mime": "image/svg+xml"
   }
 }
