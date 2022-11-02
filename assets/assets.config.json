@@ -67,5 +67,8 @@
   },
   "feature_3.svg": {
     "mime": "image/svg+xml"
+  },
+  "feature_1.svg": {
+    "mime": "image/svg+xml"
   }
 }
