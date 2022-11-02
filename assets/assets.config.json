@@ -70,5 +70,14 @@
   },
   "feature_1.svg": {
     "mime": "image/svg+xml"
+  },
+  "bottom-banner.svg": {
+    "mime": "image/svg+xml"
+  },
+  "made_with_atri.svg": {
+    "mime": "image/svg+xml"
+  },
+  "made_with_atri_2.svg": {
+    "mime": "image/svg+xml"
   }
 }
