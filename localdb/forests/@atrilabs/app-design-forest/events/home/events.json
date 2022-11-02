@@ -70384,5 +70384,16 @@
       }
     },
     "id": "1b3062c3-e621-4214-a548-9324bf9b750f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "src": "/app-assets/rest_api.svg"
+        }
+      }
+    },
+    "id": "e4fa73d9-5a7f-4742-86fa-6e7b2cb00cff"
   }
 ]
