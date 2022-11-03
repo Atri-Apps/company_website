@@ -85,5 +85,11 @@
   },
   "github star button.svg": {
     "mime": "image/svg+xml"
+  },
+  "menu.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_new.svg": {
+    "mime": "image/svg+xml"
   }
 }
