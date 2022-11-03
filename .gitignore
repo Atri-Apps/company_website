@@ -1,5 +1,9 @@
-atri_app/
-!atri_app/app/src/custom/**
+atri_app/*
+!atri_app/app
+atri_app/app/*
+!atri_app/app/src
+atri_app/app/src/*
+!atri_app/app/src/custom
 .idea/
 controllers/**/atri.py
 .DS_Store
