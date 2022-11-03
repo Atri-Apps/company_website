@@ -91,5 +91,8 @@
   },
   "menu_new.svg": {
     "mime": "image/svg+xml"
+  },
+  "menu_phone.svg": {
+    "mime": "image/svg+xml"
   }
 }
