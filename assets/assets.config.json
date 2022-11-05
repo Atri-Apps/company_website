@@ -94,5 +94,14 @@
   },
   "menu_phone.svg": {
     "mime": "image/svg+xml"
+  },
+  "feature_1.png": {
+    "mime": "image/png"
+  },
+  "feature_2.png": {
+    "mime": "image/png"
+  },
+  "feature_3.png": {
+    "mime": "image/png"
   }
 }
