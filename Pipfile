@@ -10,6 +10,8 @@ uvicorn = "*"
 jsonpickle = "*"
 python-multipart = "*"
 atri-utils = "*"
+gspread = "*"
+oauth2client = "*"
 
 [dev-packages]
 

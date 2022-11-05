@@ -90393,5 +90393,20 @@
       }
     },
     "id": "78ba6e30-94c4-45ac-9749-0a9a78cad569"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    },
+    "id": "be31eeda-3366-4fd1-839d-a58d24ad9c09"
   }
 ]
