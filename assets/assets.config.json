@@ -103,5 +103,8 @@
   },
   "feature_3.png": {
     "mime": "image/png"
+  },
+  "optimized_intro.gif": {
+    "mime": "image/gif"
   }
 }

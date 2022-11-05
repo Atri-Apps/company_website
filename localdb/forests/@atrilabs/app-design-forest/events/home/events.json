@@ -90382,5 +90382,16 @@
       }
     },
     "id": "e4fa73d9-5a7f-4742-86fa-6e7b2cb00cff"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "src": "/app-assets/optimized_intro.gif"
+        }
+      }
+    },
+    "id": "78ba6e30-94c4-45ac-9749-0a9a78cad569"
   }
 ]
