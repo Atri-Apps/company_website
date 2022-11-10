@@ -41,8 +41,6 @@ def handle_page_request(at: Atri, req: Request, res: Response, query: str):
     """
     This function is called whenever a user loads this route in the browser.
     """
-    for i in os.environ.get('YYY'):
-        print(i)
     pass
 
 def handle_event(at: Atri, req: Request, res: Response):
