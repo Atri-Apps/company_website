@@ -1,146 +1,146 @@
 {
-  "logo_without_bg.png": {
-    "mime": "image/png"
-  },
-  "hero_section.png": {
-    "mime": "image/png"
-  },
-  "landing_page_img.png": {
-    "mime": "image/png"
-  },
-  "footer_bkg.png": {
-    "mime": "image/png"
-  },
-  "twitter-square logo.png": {
-    "mime": "image/png"
-  },
-  "twitter_vectore.png": {
-    "mime": "image/png"
-  },
-  "twitter_yellow300.png": {
-    "mime": "image/png"
-  },
-  "slack.png": {
-    "mime": "image/png"
-  },
-  "slack_logo.png": {
-    "mime": "image/png"
-  },
-  "github.png": {
-    "mime": "image/png"
-  },
-  "linkedin.png": {
-    "mime": "image/png"
-  },
-  "twitter.png": {
-    "mime": "image/png"
-  },
-  "youtube.png": {
-    "mime": "image/png"
-  },
-  "installation_figure.png": {
-    "mime": "image/png"
-  },
-  "github_darkmode.png": {
-    "mime": "image/png"
-  },
-  "intro.gif": {
-    "mime": "image/gif"
-  },
-  "raycast-untitled.png": {
-    "mime": "image/png"
-  },
-  "raycast-untitled (5).png": {
-    "mime": "image/png"
-  },
-  "raycast-untitled (6).png": {
-    "mime": "image/png"
-  },
-  "visual_editor.png": {
-    "mime": "image/png"
-  },
-  "Group 707.svg": {
-    "mime": "image/svg+xml"
-  },
-  "feature_2.svg": {
-    "mime": "image/svg+xml"
-  },
-  "feature_3.svg": {
-    "mime": "image/svg+xml"
-  },
-  "feature_1.svg": {
-    "mime": "image/svg+xml"
-  },
-  "bottom-banner.svg": {
-    "mime": "image/svg+xml"
-  },
-  "made_with_atri.svg": {
-    "mime": "image/svg+xml"
-  },
-  "made_with_atri_2.svg": {
-    "mime": "image/svg+xml"
-  },
-  "rest_api.svg": {
-    "mime": "image/svg+xml"
-  },
-  "github star button.svg": {
-    "mime": "image/svg+xml"
-  },
-  "menu.svg": {
-    "mime": "image/svg+xml"
-  },
-  "menu_new.svg": {
-    "mime": "image/svg+xml"
-  },
-  "menu_phone.svg": {
-    "mime": "image/svg+xml"
-  },
-  "feature_1.png": {
-    "mime": "image/png"
-  },
-  "feature_2.png": {
-    "mime": "image/png"
-  },
-  "feature_3.png": {
-    "mime": "image/png"
-  },
-  "optimized_intro.gif": {
-    "mime": "image/gif"
-  },
-  "Screen Shot 2022-11-06 at 2.45 1.png": {
-    "mime": "image/png"
-  },
-  "user.jpeg": {
-    "mime": "image/jpeg"
-  },
-  "Vector.png": {
-    "mime": "image/png"
-  },
-  "Screenshot 2022-11-07 at 8.07.52 PM.png": {
-    "mime": "image/png"
-  },
-  "Screenshot 2022-11-07 at 8.11.03 PM.png": {
-    "mime": "image/png"
-  },
-  "Screenshot 2022-11-07 at 8.23.58 PM.png": {
-    "mime": "image/png"
-  },
-  "git.png": {
-    "mime": "image/png"
-  },
-  "Screenshot 2022-11-08 at 10.43.34 AM.png": {
-    "mime": "image/png"
-  },
-  "christopher-campbell-rDEOVtE7vOs-unsplash.jpg": {
-    "mime": "image/jpeg"
-  },
-  "sergio-de-paula-c_GmwfHBDzk-unsplash.jpg": {
-    "mime": "image/jpeg"
-  },
-  "down-arrow-svgrepo-com.svg": {
-    "mime": "image/svg+xml"
-  },
-  "up-arrow-svgrepo-com.svg": {
-    "mime": "image/svg+xml"
-  }
+	"logo_without_bg.png": {
+		"mime": "image/png"
+	},
+	"hero_section.png": {
+		"mime": "image/png"
+	},
+	"landing_page_img.png": {
+		"mime": "image/png"
+	},
+	"footer_bkg.png": {
+		"mime": "image/png"
+	},
+	"twitter-square logo.png": {
+		"mime": "image/png"
+	},
+	"twitter_vectore.png": {
+		"mime": "image/png"
+	},
+	"twitter_yellow300.png": {
+		"mime": "image/png"
+	},
+	"slack.png": {
+		"mime": "image/png"
+	},
+	"slack_logo.png": {
+		"mime": "image/png"
+	},
+	"github.png": {
+		"mime": "image/png"
+	},
+	"linkedin.png": {
+		"mime": "image/png"
+	},
+	"twitter.png": {
+		"mime": "image/png"
+	},
+	"youtube.png": {
+		"mime": "image/png"
+	},
+	"installation_figure.png": {
+		"mime": "image/png"
+	},
+	"github_darkmode.png": {
+		"mime": "image/png"
+	},
+	"intro.gif": {
+		"mime": "image/gif"
+	},
+	"raycast-untitled.png": {
+		"mime": "image/png"
+	},
+	"raycast-untitled (5).png": {
+		"mime": "image/png"
+	},
+	"raycast-untitled (6).png": {
+		"mime": "image/png"
+	},
+	"visual_editor.png": {
+		"mime": "image/png"
+	},
+	"Group 707.svg": {
+		"mime": "image/svg+xml"
+	},
+	"feature_2.svg": {
+		"mime": "image/svg+xml"
+	},
+	"feature_3.svg": {
+		"mime": "image/svg+xml"
+	},
+	"feature_1.svg": {
+		"mime": "image/svg+xml"
+	},
+	"bottom-banner.svg": {
+		"mime": "image/svg+xml"
+	},
+	"made_with_atri.svg": {
+		"mime": "image/svg+xml"
+	},
+	"made_with_atri_2.svg": {
+		"mime": "image/svg+xml"
+	},
+	"rest_api.svg": {
+		"mime": "image/svg+xml"
+	},
+	"github star button.svg": {
+		"mime": "image/svg+xml"
+	},
+	"menu.svg": {
+		"mime": "image/svg+xml"
+	},
+	"menu_new.svg": {
+		"mime": "image/svg+xml"
+	},
+	"menu_phone.svg": {
+		"mime": "image/svg+xml"
+	},
+	"feature_1.png": {
+		"mime": "image/png"
+	},
+	"feature_2.png": {
+		"mime": "image/png"
+	},
+	"feature_3.png": {
+		"mime": "image/png"
+	},
+	"optimized_intro.gif": {
+		"mime": "image/gif"
+	},
+	"Screen Shot 2022-11-06 at 2.45 1.png": {
+		"mime": "image/png"
+	},
+	"user.jpeg": {
+		"mime": "image/jpeg"
+	},
+	"Vector.png": {
+		"mime": "image/png"
+	},
+	"Screenshot 2022-11-07 at 8.07.52 PM.png": {
+		"mime": "image/png"
+	},
+	"Screenshot 2022-11-07 at 8.11.03 PM.png": {
+		"mime": "image/png"
+	},
+	"Screenshot 2022-11-07 at 8.23.58 PM.png": {
+		"mime": "image/png"
+	},
+	"git.png": {
+		"mime": "image/png"
+	},
+	"Screenshot 2022-11-08 at 10.43.34 AM.png": {
+		"mime": "image/png"
+	},
+	"christopher-campbell-rDEOVtE7vOs-unsplash.jpg": {
+		"mime": "image/jpeg"
+	},
+	"sergio-de-paula-c_GmwfHBDzk-unsplash.jpg": {
+		"mime": "image/jpeg"
+	},
+	"down-arrow-svgrepo-com.svg": {
+		"mime": "image/svg+xml"
+	},
+	"up-arrow-svgrepo-com.svg": {
+		"mime": "image/svg+xml"
+	}
 }
