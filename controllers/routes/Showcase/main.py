@@ -78,6 +78,7 @@ def set_data(at: Atri, start_indx, max_len, res, filter_btn: str = ''):
     for i in range(left):
         instance: at.Card_1.__class__ = getattr(at, f'Card_{max_len - i}')
         instance.styles.display = 'none'
+    at.TextBox474.custom.text = f'{start_indx//6 + 1} of {len(data)//6 if len(data)%6 == 0 else len(data)//6 + 1}'
 
 
 def show_filters(at: Atri):
@@ -153,5 +154,6 @@ def handle_event(at: Atri, req: Request, res: Response):
             else:
                 set_data(at, dt2 + 1 - 1, 6, res)
             at.TextBox453.custom.text = f'Contribution {dt2 + 1}-{min(dt2 + 1 + 6, len(data))}'
+
     set_redirect(at, res)
     set_filter(at, res)
