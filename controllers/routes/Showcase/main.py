@@ -155,5 +155,10 @@ def handle_event(at: Atri, req: Request, res: Response):
                 set_data(at, dt2 + 1 - 1, 6, res)
             at.TextBox453.custom.text = f'Contribution {dt2 + 1}-{min(dt2 + 1 + 6, len(data))}'
 
+    if at.Image319.onClick:
+        at.Overlay3.styles.display = 'none'
+    if at.Button116.onClick:
+        at.Overlay3.styles.display = 'flex'
+
     set_redirect(at, res)
     set_filter(at, res)
