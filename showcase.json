@@ -1,5 +1,5 @@
 [
-  {
+  { "id": 1,
     "creator_name": "Darshita Chaturvedi",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "Traffic History",
@@ -9,7 +9,7 @@
     "published_url": "",
     "tags": ["open-source"]
   },
-  {
+  { "id": 2,
     "creator_name": "Sanskar Gupta",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "Restaurante X",
@@ -19,7 +19,7 @@
     "published_url": "https://atri-apps.github.io/restaurant_website/",
     "tags": ["open-source"]
   },
-  {
+  { "id": 3,
     "creator_name": "Darshita Chaturvedi",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "Personal Blog",
@@ -29,7 +29,7 @@
     "published_url": "https://atri-apps.github.io/personal_blog/",
     "tags": ["open-source"]
   },
-  {
+  { "id": 4,
     "creator_name": "Sanskar Gupta",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "E-commerce Website",
@@ -39,7 +39,7 @@
     "published_url": "https://atri-apps.github.io/full_stack_ecommerce_website/",
     "tags": ["open-source"]
   },
-  {
+  { "id": 5,
     "creator_name": "Sanskar Gupta",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "Codely X",
@@ -49,7 +49,7 @@
     "published_url": "",
     "tags": ["open-source"]
   },
-  {
+  { "id": 6,
     "creator_name": "Darshita Chaturvedi",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "Portfolio Website",
@@ -59,7 +59,7 @@
     "published_url": "",
     "tags": ["open-source"]
   },
-  {
+  { "id": 7,
     "creator_name": "Sanskar Gupta",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "Custom Background",
@@ -69,7 +69,7 @@
     "published_url": "https://atri-apps.github.io/custom_background/",
     "tags": ["open-source"]
   },
-  {
+  { "id": 8,
     "creator_name": "Shyam Swaroop",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "CV Workbench",
@@ -79,7 +79,7 @@
     "published_url": "",
     "tags": ["open-source", "machine-learning", "ocr"]
   },
-  {
+  { "id": 9,
     "creator_name": "Darshita Chaturvedi",
     "creator_image": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
     "title": "GA Tech App",
@@ -87,6 +87,6 @@
     "detail": "This app displays tabular data and allows app users to leave comments",
     "github_url": "https://github.com/Atri-Apps/review_tabular_data.git",
     "published_url": "https://atri-apps.github.io/review_tabular_data/",
-    "tags": ["open-source", "machine-learning", "ocr"]
+    "tags": ["machine-learning", "ocr"]
   }
 ]

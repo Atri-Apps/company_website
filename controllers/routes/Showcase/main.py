@@ -5,30 +5,36 @@ import json
 import urllib
 
 
-def set_redirect(at: Atri, res):
-    f = open('showcase.json')
-    data = json.load(f)
+def set_redirect(at: Atri, res, data_fn=[]):
+    if data_fn is []:
+        f = open('showcase.json')
+        data_fn = json.load(f)
+    j = 1
+    for i in data_fn:
+        if j <= 6:
+            instance: at.Card_Github_1.__class__ = getattr(at, f'Card_Github_{j}')
+            if instance.onClick:
+                res.headers.append("location", i['github_url'])
+            j += 1
+    j = 1
+    for i in data_fn:
+        if j <= 6:
+            instance: at.Card_Deploy_1.__class__ = getattr(at, f'Card_Deploy_{j}')
+            if instance.onClick:
+                res.headers.append("location", i['published_url'])
+            j += 1
 
-    for i in range(1, 7):
-        instance: at.Card_Github_1.__class__ = getattr(at, f'Card_Github_{i}')
-        if instance.onClick:
-            res.headers.append("location", data[i-1]['github_url'])
-    for i in range(1, 7):
-        instance: at.Card_Deploy_1.__class__ = getattr(at, f'Card_Deploy_{i}')
-        if instance.onClick:
-            res.headers.append("location", data[i-1]['published_url'])
 
-
-def set_data(at: Atri, start_indx, max_len, filter_btn: str = ''):
+def set_data(at: Atri, start_indx, max_len, res, filter_btn: str = ''):
     f = open('showcase.json')
     data = json.load(f)
     if filter_btn != '':
         arr_2 = []
         for i in data:
-
             if filter_btn in set(i['tags']):
                 arr_2.append(i)
         data = arr_2
+        set_redirect(at, res, data)
     at.TextBox453.custom.text = f'Contribution {start_indx+1}-{min(start_indx + max_len, len(data))}'
     at.TextBox364.custom.text = f'{len(data)} results'
     arr = ['a', 'b', 'c']
@@ -97,7 +103,7 @@ def set_filter(at: Atri, res):
         if instance.onClick:
             url = "/Showcase" + "?" + urllib.parse.urlencode({"filter": instance.custom.text})
             res.headers.append("location", url)
-            set_data(at, 0, 6, instance.custom.text)
+            # set_data(at, 0, 6, res, instance.custom.text)
 
 
 def init_state(at: Atri):
@@ -108,37 +114,44 @@ def init_state(at: Atri):
     """
     pass
 
+
 def handle_page_request(at: Atri, req: Request, res: Response, query: str):
     """
     This function is called whenever a user loads this route in the browser.
     """
     show_filters(at)
     if len(query.split('=')) > 1:
-        set_data(at, 0, 6, query.split('=')[1])
+        set_data(at, 0, 6, res, query.split('=')[1])
     else:
-        set_data(at, 0, 6)
+        set_data(at, 0, 6, res)
+
 
 def handle_event(at: Atri, req: Request, res: Response):
     """
     This function is called whenever an event is received. An event occurs when user
     performs some action such as click button.
     """
-    if at.Down.onClick:
+    if at.Image303.onClick:
         dt1, dt2 = map(int, at.TextBox453.custom.text.split()[1].split('-'))
         if dt1 == 1:
             pass
         else:
-            set_data(at, dt1 - 6 - 1, 6)
+            if len(str(req.scope['headers'][13][1]).split('=')) >= 2:
+                set_data(at, dt1 - 6 - 1, 6, res, str(req.scope['headers'][13][1]).split('=')[1][:-1])
+            else:
+                set_data(at, dt1 - 6 - 1, 6, res)
             at.TextBox453.custom.text = f'Contribution {dt1 - 6}-{dt1 - 1}'
-    if at.Up.onClick:
+    if at.Image304.onClick:
         f = open('showcase.json')
         data = json.load(f)
         dt1, dt2 = map(int, at.TextBox453.custom.text.split()[1].split('-'))
-        if dt2 >= len(data):
+        if dt2 >= len(data) or dt2 < 6:
             pass
         else:
-            set_data(at, dt2 + 1 - 1, 6)
+            if len(str(req.scope['headers'][13][1]).split('=')) >= 2:
+                set_data(at, dt2 + 1 - 1, 6, res, str(req.scope['headers'][13][1]).split('=')[1][:-1])
+            else:
+                set_data(at, dt2 + 1 - 1, 6, res)
             at.TextBox453.custom.text = f'Contribution {dt2 + 1}-{min(dt2 + 1 + 6, len(data))}'
-
     set_redirect(at, res)
     set_filter(at, res)
