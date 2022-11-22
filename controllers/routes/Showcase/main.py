@@ -5,7 +5,7 @@ import json
 import urllib
 
 
-def get_filtered_data(filter_btn, start_indx=None):
+def get_filtered_data(filter_btn='', start_idx=None):
     f = open('showcase.json')
     data = json.load(f)
     if filter_btn != '':
@@ -14,10 +14,10 @@ def get_filtered_data(filter_btn, start_indx=None):
             if filter_btn in set(i['tags']):
                 arr_2.append(i)
         data = arr_2
-    if start_indx is None:
+    if start_idx is None:
         return data
     else:
-        return data[start_indx:min(start_indx + 6, len(data))]
+        return data[start_idx:min(start_idx + 6, len(data))]
 
 
 def set_overlay_components_data(at: Atri):
@@ -44,29 +44,34 @@ def set_overlay_components_data(at: Atri):
             instance: at.Tag_Flex_1.__class__ = getattr(at, f'Tag_Flex_{j}')
             instance.styles.display = 'none'
     if at.Upload3.onChange:
-        if at.Upload3.io.files != None:
+        if at.Upload3.io.files is not None:
             file = at.Upload3.io.files[0]
             bytes_data = file.file.read()
+            with open(f'assets/{"_".join(at.Input19.custom.value.lower().split())}.jpeg', 'wb') as f:
+                f.write(bytes_data)
             at.Image318.custom.src = create_media_response(bytes_data, mime_type=file.content_type)
     if at.Upload4.onChange:
-        if at.Upload4.io.files != None:
+        if at.Upload4.io.files is not None:
             file = at.Upload4.io.files[0]
-            at.Image317.custom.src = create_media_response(file.file.read(), mime_type=file.content_type)
+            bytes_data = file.file.read()
+            with open(f'assets/{"_".join((at.Input19.custom.value.lower() + at.Input21.custom.value.lower()).split())}.jpeg', 'wb') as f:
+                f.write(bytes_data)
+            at.Image317.custom.src = create_media_response(bytes_data, mime_type=file.content_type)
     if at.Button235.onClick:
         if at.Input19.custom.value != '' and at.Input20.custom.value != '' and at.Input21.custom.value != '':
             add_data_to_json(at)
         reset_overlay_component(at)
 
 
-def set_tags_data(at: Atri, data, start_indx, card_numer):
+def set_tags_data(at: Atri, data, start_idx, card_numer):
     arr = ['a', 'b', 'c']
     for k in range(1, 4):
         instance: at.Card_Tag_1_a.__class__ = getattr(at, f'Card_Tag_{card_numer + 1}_{arr[k - 1]}')
         instance.styles.display = 'none'
-    for k in range(1, len(data[card_numer + start_indx]['tags']) + 1):
+    for k in range(1, len(data[card_numer + start_idx]['tags']) + 1):
         # Text
         instance: at.Card_Tag_1_a_Text.__class__ = getattr(at, f'Card_Tag_{card_numer + 1}_{arr[k - 1]}_Text')
-        instance.custom.text = data[card_numer + start_indx]['tags'][k - 1]
+        instance.custom.text = data[card_numer + start_idx]['tags'][k - 1]
 
         # Flex
         instance: at.Card_Tag_1_a.__class__ = getattr(at, f'Card_Tag_{card_numer + 1}_{arr[k - 1]}')
@@ -74,15 +79,14 @@ def set_tags_data(at: Atri, data, start_indx, card_numer):
 
 
 def add_data_to_json(at: Atri):
-    f = open('showcase.json')
-    data = json.load(f)
+    data = get_filtered_data()
 
     data.append({
         "id": data[-1]['id'] + 1,
         "creator_name": at.Input21.custom.value,
-        "creator_image": "_".join((at.Input19.custom.value.lower() + at.Input21.custom.value.lower()).split()),
+        "creator_image": "_".join((at.Input19.custom.value.lower() + at.Input21.custom.value.lower()).split()) + '.jpeg',
         "title": at.Input19.custom.value,
-        "image": "_".join(at.Input19.custom.value.lower().split()),
+        "image": "_".join(at.Input19.custom.value.lower().split()) + '.jpeg',
         "detail": at.Input20.custom.value,
         "github_url": at.Input22.custom.value,
         "published_url": at.Input23.custom.value,
@@ -90,12 +94,11 @@ def add_data_to_json(at: Atri):
     })
     with open("showcase.json", "w") as outfile:
         json.dump(data, outfile)
-    #TODO :- Save image uploaded by user
+
 
 def set_card_navigations(at: Atri, res, data_fn=[]):
     if not data_fn:
-        f = open('showcase.json')
-        data_fn = json.load(f)
+        data_fn = get_filtered_data()
     j = 1
     for i in data_fn:
         if j <= 6:
@@ -159,7 +162,7 @@ def display_cards_data(at: Atri, start_indx, filter_btn: str = ''):
         instance.custom.text = data[i+start_indx]['creator_name']
 
         # Tags
-        set_tags_data(at,data, start_indx, i)
+        set_tags_data(at, data, start_indx, i)
     left = 6 - (min(start_indx + 6, len(data)) - start_indx)
     for i in range(left):
         instance: at.Card_1.__class__ = getattr(at, f'Card_{6 - i}')
@@ -170,8 +173,7 @@ def display_cards_data(at: Atri, start_indx, filter_btn: str = ''):
 
 
 def display_available_filters(at: Atri):
-    f = open('showcase.json')
-    data = json.load(f)
+    data = get_filtered_data()
     arr = []
     for i in data:
         arr += i['tags']
@@ -187,7 +189,7 @@ def display_available_filters(at: Atri):
 
 
 def set_filters_navigation(at: Atri, res):
-    for i in range(1,10):
+    for i in range(1, 10):
         instance: at.Filter_Btn_1.__class__ = getattr(at, f'Filter_Btn_{i}')
         if instance.onClick:
             url = "/Showcase" + "?" + urllib.parse.urlencode({"filter": instance.custom.text})
@@ -233,8 +235,7 @@ def handle_event(at: Atri, req: Request, res: Response):
                 set_card_navigations(at, res, current_displayed_data)
             at.TextBox453.custom.text = f'Contribution {dt1 - 6}-{dt1 - 1}'
     if at.Image304.onClick:
-        f = open('showcase.json')
-        data = json.load(f)
+        data = get_filtered_data()
         dt1, dt2 = map(int, at.TextBox453.custom.text.split()[1].split('-'))
         if dt2 >= len(data) or dt2 < 6:
             pass
