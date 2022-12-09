@@ -3450,7 +3450,7 @@ const desktopModeProps = {
     },
     "TextBox364": {
       "custom": {
-        "text": "9 results"
+        "text": "10 results"
       },
       "callbacks": {
         "onClick": [
@@ -3462,7 +3462,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "open-source"
+        "text": "machine-learning"
       },
       "callbacks": {
         "onClick": [
@@ -3474,7 +3474,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_2": {
       "custom": {
-        "text": "machine-learning"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [
@@ -3571,7 +3571,7 @@ const desktopModeProps = {
     "Card_Image_1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-7-compressed.jpg"
+        "src": "/app-assets/image-6-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3583,7 +3583,7 @@ const desktopModeProps = {
     },
     "Card_Title_1": {
       "custom": {
-        "text": "Traffic History"
+        "text": "Restaurante X"
       },
       "callbacks": {
         "onClick": [
@@ -3595,7 +3595,7 @@ const desktopModeProps = {
     },
     "Card_Text_1": {
       "custom": {
-        "text": "Inspired by star-history.com, we have created [traffic-history.com] to help open-source maintainers in keeping tabs on their repo's traffic!"
+        "text": "Full Stack Website for your Restaurant"
       },
       "callbacks": {
         "onClick": [
@@ -3682,7 +3682,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_1": {
       "custom": {
-        "text": "Darshita Chaturvedi"
+        "text": "Sanskar Gupta"
       },
       "callbacks": {
         "onClick": [
@@ -3695,7 +3695,7 @@ const desktopModeProps = {
     "Card_Image_2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-6-compressed.jpg"
+        "src": "/app-assets/image-4-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3707,7 +3707,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_2": {
       "custom": {
-        "text": "Sanskar Gupta"
+        "text": "Darshita Chaturvedi"
       },
       "callbacks": {
         "onClick": [
@@ -3758,7 +3758,7 @@ const desktopModeProps = {
     },
     "Card_Text_2": {
       "custom": {
-        "text": "Full Stack Website for your Restaurant"
+        "text": "Personal blog with minimalist design."
       },
       "callbacks": {
         "onClick": [
@@ -3770,7 +3770,7 @@ const desktopModeProps = {
     },
     "Card_Title_2": {
       "custom": {
-        "text": "Restaurante X"
+        "text": "Personal Blog"
       },
       "callbacks": {
         "onClick": [
@@ -3819,7 +3819,7 @@ const desktopModeProps = {
     "Card_Image_3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-4-compressed.jpg"
+        "src": "/app-assets/image-1-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3831,7 +3831,7 @@ const desktopModeProps = {
     },
     "Card_Title_3": {
       "custom": {
-        "text": "Personal Blog"
+        "text": "E-commerce Website"
       },
       "callbacks": {
         "onClick": [
@@ -3843,7 +3843,7 @@ const desktopModeProps = {
     },
     "Card_Text_3": {
       "custom": {
-        "text": "Personal blog with minimalist design."
+        "text": "Full Stack Ecommerce Website with dynamic product's and pagination support."
       },
       "callbacks": {
         "onClick": [
@@ -3894,7 +3894,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_3": {
       "custom": {
-        "text": "Darshita Chaturvedi"
+        "text": "Sanskar Gupta"
       },
       "callbacks": {
         "onClick": [
@@ -4191,7 +4191,7 @@ const desktopModeProps = {
     "Card_Image_4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-1-compressed.jpg"
+        "src": "/app-assets/sports_website.png"
       },
       "callbacks": {
         "onClick": [
@@ -4203,7 +4203,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_4": {
       "custom": {
-        "text": "Sanskar Gupta"
+        "text": "Dibas Borborah"
       },
       "callbacks": {
         "onClick": [
@@ -4254,7 +4254,7 @@ const desktopModeProps = {
     },
     "Card_Text_4": {
       "custom": {
-        "text": "Full Stack Ecommerce Website with dynamic product's and pagination support."
+        "text": "This is a sports website with awesome design"
       },
       "callbacks": {
         "onClick": [
@@ -4266,7 +4266,7 @@ const desktopModeProps = {
     },
     "Card_Title_4": {
       "custom": {
-        "text": "E-commerce Website"
+        "text": "Sports Website"
       },
       "callbacks": {
         "onClick": [
