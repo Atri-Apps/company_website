@@ -1538,10 +1538,12 @@ font-family: IBM Plex Sans;
 width: 20px;
 height: 20px;
 border-radius: 50%;
+cursor: pointer;
 }
 .p-Showcase.Card_Deploy_1 {
 width: 20px;
 height: 20px;
+cursor: pointer;
 }
 .p-Showcase.Card_Creator_Image_1 {
 width: 20px;
@@ -1587,11 +1589,13 @@ border-radius: 50%;
 .p-Showcase.Card_Deploy_2 {
 width: 20px;
 height: 20px;
+cursor: pointer;
 }
 .p-Showcase.Card_Github_2 {
 width: 20px;
 height: 20px;
 border-radius: 50%;
+cursor: pointer;
 }
 .p-Showcase.Card_Text_2 {
 overflow: hidden;
@@ -1715,10 +1719,12 @@ height: 80px;
 width: 20px;
 height: 20px;
 border-radius: 50%;
+cursor: pointer;
 }
 .p-Showcase.Card_Deploy_3 {
 width: 20px;
 height: 20px;
+cursor: pointer;
 }
 .p-Showcase.Card_Creator_Image_3 {
 width: 20px;
@@ -1827,11 +1833,13 @@ border-radius: 50%;
 .p-Showcase.Card_Deploy_6 {
 width: 20px;
 height: 20px;
+cursor: pointer;
 }
 .p-Showcase.Card_Github_6 {
 width: 20px;
 height: 20px;
 border-radius: 50%;
+cursor: pointer;
 }
 .p-Showcase.Card_Text_6 {
 overflow: hidden;
@@ -1955,10 +1963,12 @@ height: 80px;
 width: 20px;
 height: 20px;
 border-radius: 50%;
+cursor: pointer;
 }
 .p-Showcase.Card_Deploy_5 {
 width: 20px;
 height: 20px;
+cursor: pointer;
 }
 .p-Showcase.Card_Creator_Image_5 {
 width: 20px;
@@ -2067,11 +2077,13 @@ border-radius: 50%;
 .p-Showcase.Card_Deploy_4 {
 width: 20px;
 height: 20px;
+cursor: pointer;
 }
 .p-Showcase.Card_Github_4 {
 width: 20px;
 height: 20px;
 border-radius: 50%;
+cursor: pointer;
 }
 .p-Showcase.Card_Text_4 {
 overflow: hidden;
