@@ -3462,7 +3462,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "machine-learning"
+        "text": "ocr"
       },
       "callbacks": {
         "onClick": [
@@ -3486,7 +3486,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "ocr"
+        "text": "machine-learning"
       },
       "callbacks": {
         "onClick": [
