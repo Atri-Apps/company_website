@@ -2503,10 +2503,7 @@ const desktopModeProps = {
       "custom": {
         "open": true
       },
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Flex786": {
       "callbacks": {}
@@ -2596,58 +2593,31 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Filter1": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Filter2": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Filter3": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Filter4": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Filter5": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Filter6": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Filter7": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Filter8": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Filter9": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Flex468": {
       "callbacks": {}
@@ -2656,10 +2626,7 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_1": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex481": {
       "callbacks": {}
@@ -2671,22 +2638,13 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_1_a": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Card_Tag_1_b": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_1_c": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Flex484": {
       "callbacks": {}
@@ -2698,10 +2656,7 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_2": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex528": {
       "callbacks": {}
@@ -2722,28 +2677,16 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_2_c": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_2_b": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_2_a": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Card_3": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex535": {
       "callbacks": {}
@@ -2764,31 +2707,19 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_3_c": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_3_b": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_3_a": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex646": {
       "callbacks": {}
     },
     "Card_6": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex640": {
       "callbacks": {}
@@ -2809,28 +2740,16 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_6_c": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_6_b": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_6_a": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Card_5": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex641": {
       "callbacks": {}
@@ -2851,28 +2770,16 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_5_c": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_5_b": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_5_a": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Card_4": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex642": {
       "callbacks": {}
@@ -2893,22 +2800,13 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_4_c": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_4_b": {
-      "callbacks": {},
-      "styles": {
-        "display": "none"
-      }
+      "callbacks": {}
     },
     "Card_Tag_4_a": {
-      "callbacks": {},
-      "styles": {
-        "display": "flex"
-      }
+      "callbacks": {}
     },
     "Flex674": {
       "callbacks": {}
@@ -3450,7 +3348,7 @@ const desktopModeProps = {
     },
     "TextBox364": {
       "custom": {
-        "text": "10 results"
+        "text": "15 results"
       },
       "callbacks": {
         "onClick": [
@@ -3462,7 +3360,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "ocr"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [
@@ -3486,7 +3384,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "machine-learning"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [
@@ -3571,7 +3469,7 @@ const desktopModeProps = {
     "Card_Image_1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-6-compressed.jpg"
+        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
       },
       "callbacks": {
         "onClick": [
@@ -3583,7 +3481,7 @@ const desktopModeProps = {
     },
     "Card_Title_1": {
       "custom": {
-        "text": "Restaurante X"
+        "text": "Title of the website"
       },
       "callbacks": {
         "onClick": [
@@ -3595,7 +3493,7 @@ const desktopModeProps = {
     },
     "Card_Text_1": {
       "custom": {
-        "text": "Full Stack Website for your Restaurant"
+        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
       },
       "callbacks": {
         "onClick": [
@@ -3670,7 +3568,7 @@ const desktopModeProps = {
     "Card_Creator_Image_1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+        "src": "/app-assets/user.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3682,7 +3580,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_1": {
       "custom": {
-        "text": "Sanskar Gupta"
+        "text": "Creator Name"
       },
       "callbacks": {
         "onClick": [
@@ -3695,7 +3593,7 @@ const desktopModeProps = {
     "Card_Image_2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-4-compressed.jpg"
+        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
       },
       "callbacks": {
         "onClick": [
@@ -3707,7 +3605,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_2": {
       "custom": {
-        "text": "Darshita Chaturvedi"
+        "text": "Creator Name"
       },
       "callbacks": {
         "onClick": [
@@ -3720,7 +3618,7 @@ const desktopModeProps = {
     "Card_Creator_Image_2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+        "src": "/app-assets/user.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3758,7 +3656,7 @@ const desktopModeProps = {
     },
     "Card_Text_2": {
       "custom": {
-        "text": "Personal blog with minimalist design."
+        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
       },
       "callbacks": {
         "onClick": [
@@ -3770,7 +3668,7 @@ const desktopModeProps = {
     },
     "Card_Title_2": {
       "custom": {
-        "text": "Personal Blog"
+        "text": "Title of the website"
       },
       "callbacks": {
         "onClick": [
@@ -3819,7 +3717,7 @@ const desktopModeProps = {
     "Card_Image_3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-1-compressed.jpg"
+        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
       },
       "callbacks": {
         "onClick": [
@@ -3831,7 +3729,7 @@ const desktopModeProps = {
     },
     "Card_Title_3": {
       "custom": {
-        "text": "E-commerce Website"
+        "text": "Title of the website"
       },
       "callbacks": {
         "onClick": [
@@ -3843,7 +3741,7 @@ const desktopModeProps = {
     },
     "Card_Text_3": {
       "custom": {
-        "text": "Full Stack Ecommerce Website with dynamic product's and pagination support."
+        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
       },
       "callbacks": {
         "onClick": [
@@ -3882,7 +3780,7 @@ const desktopModeProps = {
     "Card_Creator_Image_3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+        "src": "/app-assets/user.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3894,7 +3792,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_3": {
       "custom": {
-        "text": "Sanskar Gupta"
+        "text": "Creator Name"
       },
       "callbacks": {
         "onClick": [
@@ -3943,7 +3841,7 @@ const desktopModeProps = {
     "Card_Image_6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-5-compressed.jpg"
+        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
       },
       "callbacks": {
         "onClick": [
@@ -3955,7 +3853,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_6": {
       "custom": {
-        "text": "Darshita Chaturvedi"
+        "text": "Creator Name"
       },
       "callbacks": {
         "onClick": [
@@ -3968,7 +3866,7 @@ const desktopModeProps = {
     "Card_Creator_Image_6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+        "src": "/app-assets/user.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -4006,7 +3904,7 @@ const desktopModeProps = {
     },
     "Card_Text_6": {
       "custom": {
-        "text": "This is a skeleton repositery for Software Developers or Machine Learning Engineers who want to put a nice portfolio on the web and showcase their projects"
+        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
       },
       "callbacks": {
         "onClick": [
@@ -4018,7 +3916,7 @@ const desktopModeProps = {
     },
     "Card_Title_6": {
       "custom": {
-        "text": "Portfolio Website"
+        "text": "Title of the website"
       },
       "callbacks": {
         "onClick": [
@@ -4067,7 +3965,7 @@ const desktopModeProps = {
     "Card_Image_5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/image-2-compressed.jpg"
+        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
       },
       "callbacks": {
         "onClick": [
@@ -4079,7 +3977,7 @@ const desktopModeProps = {
     },
     "Card_Title_5": {
       "custom": {
-        "text": "Codely X"
+        "text": "Title of the website"
       },
       "callbacks": {
         "onClick": [
@@ -4091,7 +3989,7 @@ const desktopModeProps = {
     },
     "Card_Text_5": {
       "custom": {
-        "text": "This is a Ed-Tech website with awesome design"
+        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
       },
       "callbacks": {
         "onClick": [
@@ -4130,7 +4028,7 @@ const desktopModeProps = {
     "Card_Creator_Image_5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+        "src": "/app-assets/user.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -4142,7 +4040,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_5": {
       "custom": {
-        "text": "Sanskar Gupta"
+        "text": "Creator Name"
       },
       "callbacks": {
         "onClick": [
@@ -4191,7 +4089,7 @@ const desktopModeProps = {
     "Card_Image_4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/sports_website.png"
+        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
       },
       "callbacks": {
         "onClick": [
@@ -4203,7 +4101,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_4": {
       "custom": {
-        "text": "Dibas Borborah"
+        "text": "Creator Name"
       },
       "callbacks": {
         "onClick": [
@@ -4216,7 +4114,7 @@ const desktopModeProps = {
     "Card_Creator_Image_4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+        "src": "/app-assets/user.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -4254,7 +4152,7 @@ const desktopModeProps = {
     },
     "Card_Text_4": {
       "custom": {
-        "text": "This is a sports website with awesome design"
+        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
       },
       "callbacks": {
         "onClick": [
@@ -4266,7 +4164,7 @@ const desktopModeProps = {
     },
     "Card_Title_4": {
       "custom": {
-        "text": "Sports Website"
+        "text": "Title of the website"
       },
       "callbacks": {
         "onClick": [
@@ -4340,7 +4238,7 @@ const desktopModeProps = {
     },
     "TextBox474": {
       "custom": {
-        "text": "1 of 2"
+        "text": "1 of 6"
       },
       "callbacks": {
         "onClick": [
