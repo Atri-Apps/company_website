@@ -225,6 +225,69 @@ const desktopModeProps = {
     "Flex225": {
       "callbacks": {}
     },
+    "Div1": {
+      "callbacks": {}
+    },
+    "Flex788": {
+      "callbacks": {}
+    },
+    "Flex789": {
+      "callbacks": {}
+    },
+    "Flex791": {
+      "callbacks": {}
+    },
+    "Flex792": {
+      "callbacks": {}
+    },
+    "Div40": {
+      "callbacks": {}
+    },
+    "Flex827": {
+      "callbacks": {}
+    },
+    "Flex825": {
+      "callbacks": {}
+    },
+    "Div37card": {
+      "callbacks": {}
+    },
+    "Flex820": {
+      "callbacks": {}
+    },
+    "Div38card": {
+      "callbacks": {}
+    },
+    "Flex821": {
+      "callbacks": {}
+    },
+    "Div39card": {
+      "callbacks": {}
+    },
+    "Flex822": {
+      "callbacks": {}
+    },
+    "Flex826": {
+      "callbacks": {}
+    },
+    "Div2card": {
+      "callbacks": {}
+    },
+    "Flex797content": {
+      "callbacks": {}
+    },
+    "Div25card": {
+      "callbacks": {}
+    },
+    "Flex814": {
+      "callbacks": {}
+    },
+    "Div27card": {
+      "callbacks": {}
+    },
+    "Flex815": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -1093,6 +1156,510 @@ const desktopModeProps = {
       "custom": {
         "alt": "installation",
         "src": "/app-assets/installation_figure.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox508": {
+      "custom": {
+        "text": "TRUSTED BY DEVELOPERS AT"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox509": {
+      "custom": {
+        "text": "Your text Here 1"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox510": {
+      "custom": {
+        "text": "Your text Here 2"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox511": {
+      "custom": {
+        "text": "Your text Here 3"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox512": {
+      "custom": {
+        "text": "Your text Here 4"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox513": {
+      "custom": {
+        "text": "Your text Here 5"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox519": {
+      "custom": {
+        "text": "Your text Here 5"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox520": {
+      "custom": {
+        "text": "Your text Here 4"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox521": {
+      "custom": {
+        "text": "Your text Here 3"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox522": {
+      "custom": {
+        "text": "Your text Here 2"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox523": {
+      "custom": {
+        "text": "Your text Here 1"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox524": {
+      "custom": {
+        "text": "Your text Here 5"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox525": {
+      "custom": {
+        "text": "Your text Here 4"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox526": {
+      "custom": {
+        "text": "Your text Here 3"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox527": {
+      "custom": {
+        "text": "Your text Here 2"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox528": {
+      "custom": {
+        "text": "Your text Here 1"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div34lay": {
+      "callbacks": {}
+    },
+    "TextBox573": {
+      "custom": {
+        "text": "Someone Famous "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image335": {
+      "custom": {
+        "alt": " available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox574": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox575": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div35lay": {
+      "callbacks": {}
+    },
+    "TextBox576": {
+      "custom": {
+        "text": "Someone Famous "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image336": {
+      "custom": {
+        "alt": " available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox577": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox578": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div36lay": {
+      "callbacks": {}
+    },
+    "TextBox579": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox580": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image337": {
+      "custom": {
+        "alt": " available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox581": {
+      "custom": {
+        "text": "Someone Famous "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div3lay": {
+      "callbacks": {}
+    },
+    "TextBox530": {
+      "custom": {
+        "text": "Someone Famous "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image320": {
+      "custom": {
+        "alt": " available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox531": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox536": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div24lay": {
+      "callbacks": {}
+    },
+    "TextBox558": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox559": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image330": {
+      "custom": {
+        "alt": " available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox560": {
+      "custom": {
+        "text": "Someone Famous "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div26lay": {
+      "callbacks": {}
+    },
+    "TextBox561": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox562": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image331": {
+      "custom": {
+        "alt": " available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox563": {
+      "custom": {
+        "text": "Someone Famous "
       },
       "callbacks": {
         "onClick": [
@@ -2503,7 +3070,10 @@ const desktopModeProps = {
       "custom": {
         "open": true
       },
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Flex786": {
       "callbacks": {}
@@ -2593,31 +3163,58 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Filter1": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Filter2": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Filter3": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Filter4": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Filter5": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Filter6": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Filter7": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Filter8": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Filter9": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Flex468": {
       "callbacks": {}
@@ -2626,7 +3223,10 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_1": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex481": {
       "callbacks": {}
@@ -2638,13 +3238,22 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_1_a": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Card_Tag_1_b": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_1_c": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Flex484": {
       "callbacks": {}
@@ -2656,7 +3265,10 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_2": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex528": {
       "callbacks": {}
@@ -2677,16 +3289,28 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_2_c": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_2_b": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_2_a": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Card_3": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex535": {
       "callbacks": {}
@@ -2707,19 +3331,31 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_3_c": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_3_b": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_3_a": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex646": {
       "callbacks": {}
     },
     "Card_6": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex640": {
       "callbacks": {}
@@ -2740,16 +3376,28 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_6_c": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_6_b": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_6_a": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Card_5": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex641": {
       "callbacks": {}
@@ -2770,16 +3418,28 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_5_c": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_5_b": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_5_a": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Card_4": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex642": {
       "callbacks": {}
@@ -2800,13 +3460,22 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Card_Tag_4_c": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_4_b": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "none"
+      }
     },
     "Card_Tag_4_a": {
-      "callbacks": {}
+      "callbacks": {},
+      "styles": {
+        "display": "flex"
+      }
     },
     "Flex674": {
       "callbacks": {}
@@ -3348,7 +4017,7 @@ const desktopModeProps = {
     },
     "TextBox364": {
       "custom": {
-        "text": "15 results"
+        "text": "10 results"
       },
       "callbacks": {
         "onClick": [
@@ -3360,7 +4029,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "open-source"
+        "text": "ocr"
       },
       "callbacks": {
         "onClick": [
@@ -3384,7 +4053,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "open-source"
+        "text": "machine-learning"
       },
       "callbacks": {
         "onClick": [
@@ -3469,7 +4138,7 @@ const desktopModeProps = {
     "Card_Image_1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
+        "src": "/app-assets/image-6-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3481,7 +4150,7 @@ const desktopModeProps = {
     },
     "Card_Title_1": {
       "custom": {
-        "text": "Title of the website"
+        "text": "Restaurante X"
       },
       "callbacks": {
         "onClick": [
@@ -3493,7 +4162,7 @@ const desktopModeProps = {
     },
     "Card_Text_1": {
       "custom": {
-        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
+        "text": "Full Stack Website for your Restaurant"
       },
       "callbacks": {
         "onClick": [
@@ -3568,7 +4237,7 @@ const desktopModeProps = {
     "Card_Creator_Image_1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.jpeg"
+        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3580,7 +4249,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_1": {
       "custom": {
-        "text": "Creator Name"
+        "text": "Sanskar Gupta"
       },
       "callbacks": {
         "onClick": [
@@ -3593,7 +4262,7 @@ const desktopModeProps = {
     "Card_Image_2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
+        "src": "/app-assets/image-4-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3605,7 +4274,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_2": {
       "custom": {
-        "text": "Creator Name"
+        "text": "Darshita Chaturvedi"
       },
       "callbacks": {
         "onClick": [
@@ -3618,7 +4287,7 @@ const desktopModeProps = {
     "Card_Creator_Image_2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.jpeg"
+        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3656,7 +4325,7 @@ const desktopModeProps = {
     },
     "Card_Text_2": {
       "custom": {
-        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
+        "text": "Personal blog with minimalist design."
       },
       "callbacks": {
         "onClick": [
@@ -3668,7 +4337,7 @@ const desktopModeProps = {
     },
     "Card_Title_2": {
       "custom": {
-        "text": "Title of the website"
+        "text": "Personal Blog"
       },
       "callbacks": {
         "onClick": [
@@ -3717,7 +4386,7 @@ const desktopModeProps = {
     "Card_Image_3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
+        "src": "/app-assets/image-1-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3729,7 +4398,7 @@ const desktopModeProps = {
     },
     "Card_Title_3": {
       "custom": {
-        "text": "Title of the website"
+        "text": "E-commerce Website"
       },
       "callbacks": {
         "onClick": [
@@ -3741,7 +4410,7 @@ const desktopModeProps = {
     },
     "Card_Text_3": {
       "custom": {
-        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
+        "text": "Full Stack Ecommerce Website with dynamic product's and pagination support."
       },
       "callbacks": {
         "onClick": [
@@ -3780,7 +4449,7 @@ const desktopModeProps = {
     "Card_Creator_Image_3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.jpeg"
+        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3792,7 +4461,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_3": {
       "custom": {
-        "text": "Creator Name"
+        "text": "Sanskar Gupta"
       },
       "callbacks": {
         "onClick": [
@@ -3841,7 +4510,7 @@ const desktopModeProps = {
     "Card_Image_6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
+        "src": "/app-assets/image-5-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3853,7 +4522,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_6": {
       "custom": {
-        "text": "Creator Name"
+        "text": "Darshita Chaturvedi"
       },
       "callbacks": {
         "onClick": [
@@ -3866,7 +4535,7 @@ const desktopModeProps = {
     "Card_Creator_Image_6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.jpeg"
+        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3904,7 +4573,7 @@ const desktopModeProps = {
     },
     "Card_Text_6": {
       "custom": {
-        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
+        "text": "This is a skeleton repositery for Software Developers or Machine Learning Engineers who want to put a nice portfolio on the web and showcase their projects"
       },
       "callbacks": {
         "onClick": [
@@ -3916,7 +4585,7 @@ const desktopModeProps = {
     },
     "Card_Title_6": {
       "custom": {
-        "text": "Title of the website"
+        "text": "Portfolio Website"
       },
       "callbacks": {
         "onClick": [
@@ -3965,7 +4634,7 @@ const desktopModeProps = {
     "Card_Image_5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
+        "src": "/app-assets/image-2-compressed.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -3977,7 +4646,7 @@ const desktopModeProps = {
     },
     "Card_Title_5": {
       "custom": {
-        "text": "Title of the website"
+        "text": "Codely X"
       },
       "callbacks": {
         "onClick": [
@@ -3989,7 +4658,7 @@ const desktopModeProps = {
     },
     "Card_Text_5": {
       "custom": {
-        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
+        "text": "This is a Ed-Tech website with awesome design"
       },
       "callbacks": {
         "onClick": [
@@ -4028,7 +4697,7 @@ const desktopModeProps = {
     "Card_Creator_Image_5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.jpeg"
+        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -4040,7 +4709,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_5": {
       "custom": {
-        "text": "Creator Name"
+        "text": "Sanskar Gupta"
       },
       "callbacks": {
         "onClick": [
@@ -4089,7 +4758,7 @@ const desktopModeProps = {
     "Card_Image_4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/Screen%20Shot%202022-11-06%20at%202.45%201.png"
+        "src": "/app-assets/sports_website.png"
       },
       "callbacks": {
         "onClick": [
@@ -4101,7 +4770,7 @@ const desktopModeProps = {
     },
     "Card_Creator_Name_4": {
       "custom": {
-        "text": "Creator Name"
+        "text": "Dibas Borborah"
       },
       "callbacks": {
         "onClick": [
@@ -4114,7 +4783,7 @@ const desktopModeProps = {
     "Card_Creator_Image_4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/user.jpeg"
+        "src": "/app-assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -4152,7 +4821,7 @@ const desktopModeProps = {
     },
     "Card_Text_4": {
       "custom": {
-        "text": "Personal blog with minimalist design. It includes four pages - landing page, blog, talks and about page."
+        "text": "This is a sports website with awesome design"
       },
       "callbacks": {
         "onClick": [
@@ -4164,7 +4833,7 @@ const desktopModeProps = {
     },
     "Card_Title_4": {
       "custom": {
-        "text": "Title of the website"
+        "text": "Sports Website"
       },
       "callbacks": {
         "onClick": [
@@ -4238,7 +4907,7 @@ const desktopModeProps = {
     },
     "TextBox474": {
       "custom": {
-        "text": "1 of 6"
+        "text": "1 of 2"
       },
       "callbacks": {
         "onClick": [

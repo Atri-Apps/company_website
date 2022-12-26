@@ -175,5 +175,17 @@
   },
   "image-6-compressed.jpg": {
     "mime": "image/jpeg"
+  },
+  "images.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "download.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "images (3).jpeg": {
+    "mime": "image/jpeg"
+  },
+  "1200px-Pierre-Person.jpeg": {
+    "mime": "image/jpeg"
   }
 }

@@ -1,0 +1,200 @@
+.p-Home.Flex1 {
+    background: radial-gradient(at 72% -75%, #c66864 24%, transparent 47%),
+            radial-gradient(at 51% -70%, #c66864 0%, transparent 50%),
+            radial-gradient(at 30% -90%, rgba(94,62,246,0.99) 25%, transparent 49%);
+
+    background-color: black;
+
+
+}
+.p-Home.Flex160::before {
+    content: "";
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(
+        45deg,
+        hsl(41deg 54% 63%) 0%,
+        hsl(29deg 55% 61%) 17%,
+        hsl(16deg 56% 60%) 33%,
+        hsl(11deg 48% 53%) 50%,
+        hsl(3deg 50% 45%) 67%,
+        hsl(318deg 43% 44%) 83%,
+        hsl(283deg 46% 47%) 100%
+      );
+    transform: translate3d(0px, 50%, 0) scale(0.75);
+    filter: blur(20px);
+    // opacity: var(0.7);
+    transition: opacity 0.3s;
+    border-radius: inherit;
+}
+
+.p-Home.Flex160::after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    border-radius: inherit;
+}
+        
+
+@keyframes marquee {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: -100%;
+    }
+}
+
+.p-Home.Flex788 {
+    // width: 300%;
+    // top:90%;
+    animation: marquee 50s linear infinite;
+    background-color: aqua;
+}
+
+// Review section code start
+
+// card1 code start
+
+.p-Home.Div3lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Div2card:hover .Div3lay {
+    top: 0;
+}
+.p-Home.Image320 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.p-Home.Div2card:hover .TextBox536 {
+    color: #fff;
+}
+.p-Home.Flex812{
+-webkit-box-reflect: below 1px linear-gradient(transparent 70%,#0009);
+}
+// card1 code end
+
+
+// card 2 code start
+.p-Home.Div24lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Div25card:hover .Div24lay {
+    top: 0;
+}
+.p-Home.Image330 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.p-Home.Div25card:hover .TextBox558 {
+    color: #fff;
+}
+
+// card 2 code end
+
+
+// card 3 code start here
+
+.p-Home.Div26lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Div27card:hover .Div26lay {
+    top: 0;
+}
+.p-Home.Image331 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.p-Home.Div27card:hover .TextBox561 {
+    color: #fff;
+}
+
+// card 3 code end here
+
+
+// card 4 code start here
+.p-Home.Div36lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Div39card:hover .Div36lay {
+    top: 0;
+}
+.p-Home.Image337 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.p-Home.Div39card:hover .TextBox579 {
+    color: #fff;
+}
+
+// card 4 code end here
+
+// card5 code start 
+.p-Home.Div35lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Div38card:hover .Div35lay {
+    top: 0;
+}
+.p-Home.Image336 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.p-Home.Div38card:hover .TextBox578 {
+    color: #fff;
+}
+// card5 code end
+
+// card 6 code start
+.p-Home.Div34lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Div37card:hover .Div34lay {
+    top: 0;
+}
+.p-Home.Image335 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.p-Home.Div37card:hover .TextBox575 {
+    color: #fff;
+}
+// card 7 code end
+@keyframes marquees {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: -100%;
+    }
+}
+.p-Home.Flex827 {
+    // width: 300%;
+    // top:90%;
+    animation: marquees 10s linear infinite;
+    // background-color: aqua;
+}
+.p-Home.Flex826{
+    -webkit-box-reflect: below 1px linear-gradient(transparent 70% , #0009);
+}
+.p-Home.Flex825{
+    -webkit-box-reflect: below 1px linear-gradient(transparent 70% , #0009);
+}
+// review code section end
