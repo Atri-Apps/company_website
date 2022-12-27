@@ -187,5 +187,23 @@
   },
   "1200px-Pierre-Person.jpeg": {
     "mime": "image/jpeg"
+  },
+  "aws-logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "jhu0logo.png": {
+    "mime": "image/png"
+  },
+  "mit-logo.png": {
+    "mime": "image/png"
+  },
+  "Stanford_Cardinal_logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "redhat-new-logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "nhs-logo.svg": {
+    "mime": "image/svg+xml"
   }
 }

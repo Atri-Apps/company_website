@@ -426,6 +426,7 @@ border-style: solid;
 height: ;
 align-self: auto;
 display: ;
+background-color: #000000;
 }
 .p-Home.Flex788 {
 display: flex;
@@ -437,6 +438,8 @@ border-style: none;
 border-color: #23f608;
 width: 300%;
 position: relative;
+background-color: #000000;
+color: #ffffff;
 }
 .p-Home.Flex789 {
 display: flex;
@@ -452,8 +455,11 @@ position: relative;
 column-gap: ;
 font-family: IBM Plex Sans;
 font-size: 1.5em;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #000000;
 }
-.p-Home.Flex791 {
+.p-Home.Flex830 {
 display: flex;
 overflow: hidden;
 box-sizing: border-box;
@@ -467,8 +473,11 @@ position: relative;
 column-gap: ;
 font-family: IBM Plex Sans;
 font-size: 1.5em;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #000000;
 }
-.p-Home.Flex792 {
+.p-Home.Flex831 {
 display: flex;
 overflow: hidden;
 box-sizing: border-box;
@@ -482,6 +491,9 @@ position: relative;
 column-gap: ;
 font-family: IBM Plex Sans;
 font-size: 1.5em;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #000000;
 }
 .p-Home.Div40 {
 overflow: hidden;
@@ -638,7 +650,7 @@ overflow: hidden;
 box-sizing: border-box;
 border-style: none;
 border-width: 10px;
-width: 350px;
+width: 400px;
 height: ;
 border-color: #f3970d;
 padding-top: 60px;
@@ -650,7 +662,21 @@ padding-right: 40px;
 padding-left: 40px;
 margin-left: ;
 margin-right: ;
-min-width: 350px;
+min-width: 400px;
+}
+.p-Home.Div3lay {
+overflow: hidden;
+box-sizing: border-box;
+border-style: none;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+border-color: #11ee11;
+border-width: 5px;
+z-index: 1;
+align-self: auto;
 }
 .p-Home.Flex797content {
 display: flex;
@@ -658,7 +684,7 @@ overflow: hidden;
 box-sizing: border-box;
 border-style: none;
 height: ;
-flex-direction: column;
+flex-direction: row;
 border-color: #042ea6;
 border-width: 4px;
 align-items: center;
@@ -667,6 +693,12 @@ z-index: 5;
 position: relative;
 min-width: ;
 width: ;
+row-gap: ;
+padding-top: ;
+margin-top: 50px;
+margin-bottom: 50px;
+column-gap: ;
+order: 1;
 }
 .p-Home.Div25card {
 overflow: hidden;
@@ -1026,7 +1058,7 @@ color: #FFEDD5;
 text-align: left;
 }
 .p-Home.Image59 {
-;
+background-color: #000000;
 }
 .p-Home.Image96 {
 ;
@@ -1139,55 +1171,90 @@ overflow: hidden;
 box-sizing: border-box;
 text-align: center;
 font-family: Fira Code;
-background-color: #2B2B3Bff;
+background-color: #000000ff;
 color: #ffffff;
 font-weight: 500;
-font-size: 1.2em;
+font-size: 1.3em;
 }
-.p-Home.TextBox509 {
-;
+.p-Home.Image339 {
+width: 70px;
+height: 50px;
 }
-.p-Home.TextBox510 {
-;
+.p-Home.Image340 {
+width: 130px;
+height: 50px;
+overflow: hidden;
+box-sizing: border-box;
 }
-.p-Home.TextBox511 {
-;
+.p-Home.Image341 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox512 {
-;
+.p-Home.Image342 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox513 {
-;
+.p-Home.Image343 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox519 {
-;
+.p-Home.Image356 {
+width: 120px;
+height: 50px;
 }
-.p-Home.TextBox520 {
-;
+.p-Home.Image344 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox521 {
-;
+.p-Home.Image345 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox522 {
-;
+.p-Home.Image346 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox523 {
-;
+.p-Home.Image347 {
+width: 130px;
+height: 50px;
+overflow: hidden;
+box-sizing: border-box;
 }
-.p-Home.TextBox524 {
-;
+.p-Home.Image348 {
+width: 70px;
+height: 50px;
 }
-.p-Home.TextBox525 {
-;
+.p-Home.Image354 {
+width: 130px;
+height: 50px;
+order: 5;
 }
-.p-Home.TextBox526 {
-;
+.p-Home.Image349 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox527 {
-;
+.p-Home.Image350 {
+width: 130px;
+height: 50px;
 }
-.p-Home.TextBox528 {
-;
+.p-Home.Image351 {
+width: 130px;
+height: 50px;
+}
+.p-Home.Image352 {
+width: 130px;
+height: 50px;
+overflow: hidden;
+box-sizing: border-box;
+}
+.p-Home.Image353 {
+width: 70px;
+height: 50px;
+}
+.p-Home.Image358 {
+width: 130px;
+height: 50px;
+order: 5;
 }
 .p-Home.Div34lay {
 overflow: hidden;
@@ -1354,41 +1421,6 @@ font-size: 22px;
 font-weight: 500;
 color: #fffbfb;
 }
-.p-Home.Div3lay {
-overflow: hidden;
-box-sizing: border-box;
-border-style: none;
-height: 100%;
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-border-color: #11ee11;
-border-width: 5px;
-z-index: 1;
-}
-.p-Home.TextBox530 {
-overflow: hidden;
-box-sizing: border-box;
-font-family: IBM Plex Sans;
-font-size: 22px;
-font-weight: 500;
-color: #fffbfb;
-}
-.p-Home.Image320 {
-width: 200px;
-height: 200px;
-overflow: hidden;
-box-sizing: border-box;
-border-width: 4px;
-border-style: solid;
-border-color: #ffffff;
-border-radius: 50%;
-padding-bottom: ;
-margin-bottom: 10px;
-padding-top: ;
-margin-top: 10px;
-}
 .p-Home.TextBox531 {
 overflow: hidden;
 box-sizing: border-box;
@@ -1400,6 +1432,30 @@ margin-bottom: ;
 color: #ffffff;
 text-align: center;
 font-weight: 500;
+align-self: auto;
+position: relative;
+}
+.p-Home.TextBox530 {
+overflow: hidden;
+box-sizing: border-box;
+font-family: IBM Plex Sans;
+font-size: 22px;
+font-weight: 500;
+color: #fffbfb;
+}
+.p-Home.Image320 {
+width: 150px;
+height: 150px;
+overflow: hidden;
+box-sizing: border-box;
+border-width: 4px;
+border-style: solid;
+border-color: #ffffff;
+border-radius: 50%;
+padding-bottom: ;
+margin-bottom: 10px;
+padding-top: ;
+margin-top: 10px;
 }
 .p-Home.TextBox536 {
 overflow: hidden;

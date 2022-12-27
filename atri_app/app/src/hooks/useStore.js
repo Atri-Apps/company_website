@@ -234,10 +234,10 @@ const desktopModeProps = {
     "Flex789": {
       "callbacks": {}
     },
-    "Flex791": {
+    "Flex830": {
       "callbacks": {}
     },
-    "Flex792": {
+    "Flex831": {
       "callbacks": {}
     },
     "Div40": {
@@ -271,6 +271,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Div2card": {
+      "callbacks": {}
+    },
+    "Div3lay": {
       "callbacks": {}
     },
     "Flex797content": {
@@ -1177,9 +1180,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox509": {
+    "Image339": {
       "custom": {
-        "text": "Your text Here 1"
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1189,9 +1193,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox510": {
+    "Image340": {
       "custom": {
-        "text": "Your text Here 2"
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -1201,9 +1206,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox511": {
+    "Image341": {
       "custom": {
-        "text": "Your text Here 3"
+        "alt": "No preview available",
+        "src": "/app-assets/mit-logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -1213,9 +1219,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox512": {
+    "Image342": {
       "custom": {
-        "text": "Your text Here 4"
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1225,9 +1232,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox513": {
+    "Image343": {
       "custom": {
-        "text": "Your text Here 5"
+        "alt": "No preview available",
+        "src": "/app-assets/redhat-new-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1237,9 +1245,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox519": {
+    "Image356": {
       "custom": {
-        "text": "Your text Here 5"
+        "alt": "No preview available",
+        "src": "/app-assets/nhs-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1249,9 +1258,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox520": {
+    "Image344": {
       "custom": {
-        "text": "Your text Here 4"
+        "alt": "No preview available",
+        "src": "/app-assets/redhat-new-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1261,9 +1271,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox521": {
+    "Image345": {
       "custom": {
-        "text": "Your text Here 3"
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1273,9 +1284,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox522": {
+    "Image346": {
       "custom": {
-        "text": "Your text Here 2"
+        "alt": "No preview available",
+        "src": "/app-assets/mit-logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -1285,9 +1297,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox523": {
+    "Image347": {
       "custom": {
-        "text": "Your text Here 1"
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -1297,9 +1310,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox524": {
+    "Image348": {
       "custom": {
-        "text": "Your text Here 5"
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1309,9 +1323,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox525": {
+    "Image354": {
       "custom": {
-        "text": "Your text Here 4"
+        "alt": "No preview available",
+        "src": "/app-assets/nhs-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1321,9 +1336,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox526": {
+    "Image349": {
       "custom": {
-        "text": "Your text Here 3"
+        "alt": "No preview available",
+        "src": "/app-assets/redhat-new-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1333,9 +1349,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox527": {
+    "Image350": {
       "custom": {
-        "text": "Your text Here 2"
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1345,9 +1362,49 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox528": {
+    "Image351": {
       "custom": {
-        "text": "Your text Here 1"
+        "alt": "No preview available",
+        "src": "/app-assets/mit-logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image352": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image353": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image358": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/nhs-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1513,8 +1570,17 @@ const desktopModeProps = {
         ]
       }
     },
-    "Div3lay": {
-      "callbacks": {}
+    "TextBox531": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
     "TextBox530": {
       "custom": {
@@ -1532,18 +1598,6 @@ const desktopModeProps = {
       "custom": {
         "alt": " available",
         "src": "/app-assets/1200px-Pierre-Person.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox531": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
       },
       "callbacks": {
         "onClick": [
@@ -4029,7 +4083,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "ocr"
+        "text": "machine-learning"
       },
       "callbacks": {
         "onClick": [
@@ -4041,7 +4095,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_2": {
       "custom": {
-        "text": "open-source"
+        "text": "ocr"
       },
       "callbacks": {
         "onClick": [
@@ -4053,7 +4107,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "machine-learning"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [
