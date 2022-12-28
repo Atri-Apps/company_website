@@ -1,7 +1,7 @@
 {
-  "Flex": 831,
-  "Image": 358,
-  "TextBox": 599,
+  "Flex": 909,
+  "Image": 393,
+  "TextBox": 652,
   "Button": 235,
   "Menu": 7,
   "Link": 1,
@@ -9,5 +9,5 @@
   "Input": 24,
   "Overlay": 3,
   "Upload": 4,
-  "Div": 42
+  "Div": 65
 }

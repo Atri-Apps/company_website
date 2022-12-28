@@ -66,18 +66,16 @@
 
 // card1 code start
 
-.p-Home.Div3lay {
+.p-Home.Flex878lay {
     background-image: linear-gradient(#03a9f4, #e91ee3);
     transition: 0.5s;
     top: calc(100% - 10px);
 }
-.p-Home.Div2card:hover .Div3lay {
+.p-Home.Flex874card:hover .Flex878lay {
     top: 0;
 }
-.p-Home.Image320 {
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-.p-Home.Div2card:hover .TextBox536 {
+
+.p-Home.Flex874card:hover .TextBox637 {
     color: #fff;
 }
 .p-Home.Flex812{
@@ -87,18 +85,16 @@
 
 
 // card 2 code start
-.p-Home.Div24lay {
+.p-Home.Flex888lay {
     background-image: linear-gradient(#03a9f4, #e91ee3);
     transition: 0.5s;
     top: calc(100% - 10px);
 }
-.p-Home.Div25card:hover .Div24lay {
+.p-Home.Flex890card:hover .Flex888lay {
     top: 0;
 }
-.p-Home.Image330 {
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-.p-Home.Div25card:hover .TextBox558 {
+
+.p-Home.Flex890card:hover .TextBox641 {
     color: #fff;
 }
 
@@ -107,18 +103,16 @@
 
 // card 3 code start here
 
-.p-Home.Div26lay {
+.p-Home.Flex882lay {
     background-image: linear-gradient(#03a9f4, #e91ee3);
     transition: 0.5s;
     top: calc(100% - 10px);
 }
-.p-Home.Div27card:hover .Div26lay {
+.p-Home.Flex884card:hover .Flex882lay {
     top: 0;
 }
-.p-Home.Image331 {
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-.p-Home.Div27card:hover .TextBox561 {
+
+.p-Home.Flex884card:hover .TextBox638 {
     color: #fff;
 }
 
@@ -126,53 +120,45 @@
 
 
 // card 4 code start here
-.p-Home.Div36lay {
+.p-Home.Flex904lay {
     background-image: linear-gradient(#03a9f4, #e91ee3);
     transition: 0.5s;
     top: calc(100% - 10px);
 }
-.p-Home.Div39card:hover .Div36lay {
+.p-Home.Flex908card:hover .Flex904lay {
     top: 0;
 }
-.p-Home.Image337 {
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-.p-Home.Div39card:hover .TextBox579 {
+.p-Home.Flex908card:hover .TextBox648 {
     color: #fff;
 }
 
 // card 4 code end here
 
 // card5 code start 
-.p-Home.Div35lay {
+.p-Home.Flex901lay {
     background-image: linear-gradient(#03a9f4, #e91ee3);
     transition: 0.5s;
     top: calc(100% - 10px);
 }
-.p-Home.Div38card:hover .Div35lay {
+.p-Home.Flex906card:hover .Flex901lay {
     top: 0;
 }
-.p-Home.Image336 {
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-.p-Home.Div38card:hover .TextBox578 {
+.p-Home.Flex906card:hover .TextBox645 {
     color: #fff;
 }
 // card5 code end
 
 // card 6 code start
-.p-Home.Div34lay {
+.p-Home.Flex903lay {
     background-image: linear-gradient(#03a9f4, #e91ee3);
     transition: 0.5s;
     top: calc(100% - 10px);
 }
-.p-Home.Div37card:hover .Div34lay {
+.p-Home.Flex907card:hover .Flex903lay {
     top: 0;
 }
-.p-Home.Image335 {
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-.p-Home.Div37card:hover .TextBox575 {
+
+.p-Home.Flex907card:hover .TextBox647 {
     color: #fff;
 }
 // card 7 code end
@@ -185,16 +171,12 @@
         left: -100%;
     }
 }
-.p-Home.Flex827 {
-    // width: 300%;
-    // top:90%;
-    animation: marquees 10s linear infinite;
-    // background-color: aqua;
+.p-Home.Flex871 {
+    animation: marquees 20s linear infinite;
+    
 }
-.p-Home.Flex826{
-    -webkit-box-reflect: below 1px linear-gradient(transparent 70% , #0009);
-}
-.p-Home.Flex825{
+
+.p-Home.Flex871{
     -webkit-box-reflect: below 1px linear-gradient(transparent 70% , #0009);
 }
 // review code section end
