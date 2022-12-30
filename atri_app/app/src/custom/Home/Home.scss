@@ -168,7 +168,7 @@
     }
 
     100% {
-        left: -100%;
+        left: -105%;
     }
 }
 .p-Home.Flex871 {
@@ -179,4 +179,31 @@
 .p-Home.Flex871{
     -webkit-box-reflect: below 1px linear-gradient(transparent 70% , #0009);
 }
+
+
 // review code section end
+@media screen and (max-width: 991px) {
+    .p-Home.Flex160::before{
+        transform: translate3d(0px, 50%, 0) scale(0.72);
+        margin-top: 10%;
+        margin-bottom: 3%;
+    }
+  }
+  @media screen and (max-width: 820px) {
+    .p-Home.Flex160::before{
+        transform: translate3d(0px, 57%, 0) scale(0.69,0.56);
+       
+
+     
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .p-Home.Flex160::before{
+        transform: translate3d(-44%, 0%, 0) scale(0.55,0.63);
+        rotate: 270deg;
+        
+       
+
+     
+    }
+  }

@@ -1483,7 +1483,7 @@ const desktopModeProps = {
     "Image383": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aws-logo.svg"
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1613,7 +1613,7 @@ const desktopModeProps = {
     "Image387": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aws-logo.svg"
+        "src": "/app-assets/jhu0logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -1678,7 +1678,7 @@ const desktopModeProps = {
     "Image391": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aws-logo.svg"
+        "src": "/app-assets/jhu0logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -1808,7 +1808,7 @@ const desktopModeProps = {
     "Image393": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aws-logo.svg"
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
       },
       "callbacks": {
         "onClick": [
