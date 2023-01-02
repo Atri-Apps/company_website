@@ -1480,23 +1480,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image383": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/Stanford_Cardinal_logo.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "Image382": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+        "src": "/app-assets/arnab.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1508,7 +1495,7 @@ const desktopModeProps = {
     },
     "TextBox636": {
       "custom": {
-        "text": "Ali rizvi"
+        "text": "Arnab Manna"
       },
       "callbacks": {
         "onClick": [
@@ -1520,7 +1507,7 @@ const desktopModeProps = {
     },
     "TextBox637": {
       "custom": {
-        "text": "Website Desginer"
+        "text": "Founding Machine Learning Enngineer"
       },
       "callbacks": {
         "onClick": [
@@ -1535,7 +1522,7 @@ const desktopModeProps = {
     },
     "TextBox640": {
       "custom": {
-        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+        "text": "Atri framework has enabled us to execute more client projects in less time. Business teams are now able to modify web pages quickly and without developer's intervention. We are excited for the upcoming feature releases."
       },
       "callbacks": {
         "onClick": [
@@ -1548,7 +1535,7 @@ const desktopModeProps = {
     "Image385": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aws-logo.svg"
+        "src": "/app-assets/exl.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -1561,7 +1548,7 @@ const desktopModeProps = {
     "Image384": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+        "src": "/app-assets/jay.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1573,7 +1560,7 @@ const desktopModeProps = {
     },
     "TextBox638": {
       "custom": {
-        "text": "Website Desginer"
+        "text": "Senior Manager"
       },
       "callbacks": {
         "onClick": [
@@ -1585,7 +1572,7 @@ const desktopModeProps = {
     },
     "TextBox639": {
       "custom": {
-        "text": "Ali rizvi"
+        "text": "Jay Vishal"
       },
       "callbacks": {
         "onClick": [
@@ -1600,7 +1587,7 @@ const desktopModeProps = {
     },
     "TextBox643": {
       "custom": {
-        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+        "text": "I have been using Atri framework since its alpha release. It is solving a critical problem of collaboration and handoff between engineering and creative teams. I strongly believe that it will be a game changer for the web development industry."
       },
       "callbacks": {
         "onClick": [
@@ -1613,7 +1600,7 @@ const desktopModeProps = {
     "Image387": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/jhu0logo.png"
+        "src": "/app-assets/aws-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1626,7 +1613,7 @@ const desktopModeProps = {
     "Image386": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+        "src": "/app-assets/devesh.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1638,7 +1625,7 @@ const desktopModeProps = {
     },
     "TextBox641": {
       "custom": {
-        "text": "Website Desginer"
+        "text": "Software Developer"
       },
       "callbacks": {
         "onClick": [
@@ -1650,7 +1637,7 @@ const desktopModeProps = {
     },
     "TextBox642": {
       "custom": {
-        "text": "Ali rizvi"
+        "text": "Devesh Kumar"
       },
       "callbacks": {
         "onClick": [
@@ -1665,7 +1652,7 @@ const desktopModeProps = {
     },
     "TextBox650": {
       "custom": {
-        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+        "text": "I have been using Atri framework since its alpha release. It is solving a critical problem of collaboration and handoff between engineering and creative teams. I strongly believe that it will be a game changer for the web development industry."
       },
       "callbacks": {
         "onClick": [
@@ -1678,7 +1665,7 @@ const desktopModeProps = {
     "Image391": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/jhu0logo.png"
+        "src": "/app-assets/aws-logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1691,7 +1678,7 @@ const desktopModeProps = {
     "Image388": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+        "src": "/app-assets/devesh.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1703,7 +1690,7 @@ const desktopModeProps = {
     },
     "TextBox644": {
       "custom": {
-        "text": "Ali rizvi"
+        "text": "Devesh Kumar"
       },
       "callbacks": {
         "onClick": [
@@ -1715,7 +1702,7 @@ const desktopModeProps = {
     },
     "TextBox645": {
       "custom": {
-        "text": "Website Desginer"
+        "text": "Software Engineer"
       },
       "callbacks": {
         "onClick": [
@@ -1730,7 +1717,7 @@ const desktopModeProps = {
     },
     "TextBox651": {
       "custom": {
-        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+        "text": "Atri framework has enabled us to execute more client projects in less time. Business teams are now able to modify web pages quickly and without developer's intervention. We are excited for the upcoming feature releases."
       },
       "callbacks": {
         "onClick": [
@@ -1743,7 +1730,7 @@ const desktopModeProps = {
     "Image392": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aws-logo.svg"
+        "src": "/app-assets/exl.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -1756,7 +1743,7 @@ const desktopModeProps = {
     "Image389": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+        "src": "/app-assets/jay.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1768,7 +1755,7 @@ const desktopModeProps = {
     },
     "TextBox646": {
       "custom": {
-        "text": "Ali rizvi"
+        "text": "Jay Vishal"
       },
       "callbacks": {
         "onClick": [
@@ -1780,7 +1767,7 @@ const desktopModeProps = {
     },
     "TextBox647": {
       "custom": {
-        "text": "Website Desginer"
+        "text": "Senior Manager"
       },
       "callbacks": {
         "onClick": [
@@ -1795,20 +1782,7 @@ const desktopModeProps = {
     },
     "TextBox652": {
       "custom": {
-        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image393": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/Stanford_Cardinal_logo.svg"
+        "text": "Python devs, check out Atri framework - it is the most powerful solution for creating responsive web apps. The generated code for your frontend is of very high quality and production-grade & you get the freedom to develop your backend using Python."
       },
       "callbacks": {
         "onClick": [
@@ -1821,7 +1795,7 @@ const desktopModeProps = {
     "Image390": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+        "src": "/app-assets/arnab.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1833,7 +1807,7 @@ const desktopModeProps = {
     },
     "TextBox648": {
       "custom": {
-        "text": "Website Desginer"
+        "text": "Founding Machine Learning Engineer"
       },
       "callbacks": {
         "onClick": [
@@ -1845,7 +1819,7 @@ const desktopModeProps = {
     },
     "TextBox649": {
       "custom": {
-        "text": "Ali rizvi"
+        "text": "Arnab Manna"
       },
       "callbacks": {
         "onClick": [
@@ -4215,7 +4189,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "open-source"
+        "text": "ocr"
       },
       "callbacks": {
         "onClick": [
@@ -4239,7 +4213,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "ocr"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [

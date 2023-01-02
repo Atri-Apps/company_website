@@ -2327,22 +2327,6 @@ export function useTextBox637Cb() {
 }), [])
 	return { onClick }
 }
-export function useImage383Cb() {
-	const onClick = useCallback(callbackFactory("Image383", "Home", "/", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
 export function useFlex878layCb() {
 	const onClick = useCallback(callbackFactory("Flex878lay", "Home", "/", "onClick", 
 			{
@@ -2881,22 +2865,6 @@ export function useFlex895Cb() {
 }
 export function useImage392Cb() {
 	const onClick = useCallback(callbackFactory("Image392", "Home", "/", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useImage393Cb() {
-	const onClick = useCallback(callbackFactory("Image393", "Home", "/", "onClick", 
 			{
   "handlers": [
     {
