@@ -225,6 +225,123 @@ const desktopModeProps = {
     "Flex225": {
       "callbacks": {}
     },
+    "Div1": {
+      "callbacks": {}
+    },
+    "Flex788": {
+      "callbacks": {}
+    },
+    "Flex789": {
+      "callbacks": {}
+    },
+    "Flex830": {
+      "callbacks": {}
+    },
+    "Flex831": {
+      "callbacks": {}
+    },
+    "Div40": {
+      "callbacks": {}
+    },
+    "Flex871": {
+      "callbacks": {}
+    },
+    "Flex872": {
+      "callbacks": {}
+    },
+    "Flex874card": {
+      "callbacks": {}
+    },
+    "Flex873data": {
+      "callbacks": {}
+    },
+    "Flex875": {
+      "callbacks": {}
+    },
+    "Flex876det": {
+      "callbacks": {}
+    },
+    "Flex877": {
+      "callbacks": {}
+    },
+    "Flex884card": {
+      "callbacks": {}
+    },
+    "Flex883": {
+      "callbacks": {}
+    },
+    "Flex881": {
+      "callbacks": {}
+    },
+    "Flex880": {
+      "callbacks": {}
+    },
+    "Flex879": {
+      "callbacks": {}
+    },
+    "Flex890card": {
+      "callbacks": {}
+    },
+    "Flex889": {
+      "callbacks": {}
+    },
+    "Flex887": {
+      "callbacks": {}
+    },
+    "Flex886": {
+      "callbacks": {}
+    },
+    "Flex885": {
+      "callbacks": {}
+    },
+    "Flex909": {
+      "callbacks": {}
+    },
+    "Flex906card": {
+      "callbacks": {}
+    },
+    "Flex900": {
+      "callbacks": {}
+    },
+    "Flex897": {
+      "callbacks": {}
+    },
+    "Flex894": {
+      "callbacks": {}
+    },
+    "Flex891": {
+      "callbacks": {}
+    },
+    "Flex907card": {
+      "callbacks": {}
+    },
+    "Flex902": {
+      "callbacks": {}
+    },
+    "Flex898": {
+      "callbacks": {}
+    },
+    "Flex895": {
+      "callbacks": {}
+    },
+    "Flex892": {
+      "callbacks": {}
+    },
+    "Flex908card": {
+      "callbacks": {}
+    },
+    "Flex905": {
+      "callbacks": {}
+    },
+    "Flex899": {
+      "callbacks": {}
+    },
+    "Flex896": {
+      "callbacks": {}
+    },
+    "Flex893": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -1093,6 +1210,642 @@ const desktopModeProps = {
       "custom": {
         "alt": "installation",
         "src": "/app-assets/installation_figure.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox508": {
+      "custom": {
+        "text": "TRUSTED BY DEVELOPERS AT"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image339": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image340": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image341": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/mit-logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image342": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image343": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/redhat-new-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image356": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/nhs-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image344": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/redhat-new-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image345": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image346": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/mit-logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image347": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image348": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image354": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/nhs-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image349": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/redhat-new-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image350": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image351": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/mit-logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image352": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image353": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image358": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/nhs-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex878lay": {
+      "callbacks": {}
+    },
+    "TextBox634": {
+      "custom": {
+        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image383": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image382": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox636": {
+      "custom": {
+        "text": "Ali rizvi"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox637": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex882lay": {
+      "callbacks": {}
+    },
+    "TextBox640": {
+      "custom": {
+        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image385": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image384": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox638": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox639": {
+      "custom": {
+        "text": "Ali rizvi"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex888lay": {
+      "callbacks": {}
+    },
+    "TextBox643": {
+      "custom": {
+        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image387": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image386": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox641": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox642": {
+      "custom": {
+        "text": "Ali rizvi"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex901lay": {
+      "callbacks": {}
+    },
+    "TextBox650": {
+      "custom": {
+        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image391": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/jhu0logo.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image388": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox644": {
+      "custom": {
+        "text": "Ali rizvi"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox645": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex903lay": {
+      "callbacks": {}
+    },
+    "TextBox651": {
+      "custom": {
+        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image392": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/aws-logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image389": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox646": {
+      "custom": {
+        "text": "Ali rizvi"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox647": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex904lay": {
+      "callbacks": {}
+    },
+    "TextBox652": {
+      "custom": {
+        "text": "Notification infrastructure is the most essential part of any product that I'd never dare build myself from scratch or operate at scale. Knock's APIs allow me to focus on my frontend experience, while all the complexity is abstracted away."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image393": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Stanford_Cardinal_logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image390": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/1200px-Pierre-Person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox648": {
+      "custom": {
+        "text": "Website Desginer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox649": {
+      "custom": {
+        "text": "Ali rizvi"
       },
       "callbacks": {
         "onClick": [
@@ -3462,7 +4215,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "ocr"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [
@@ -3474,7 +4227,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_2": {
       "custom": {
-        "text": "open-source"
+        "text": "machine-learning"
       },
       "callbacks": {
         "onClick": [
@@ -3486,7 +4239,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "machine-learning"
+        "text": "ocr"
       },
       "callbacks": {
         "onClick": [

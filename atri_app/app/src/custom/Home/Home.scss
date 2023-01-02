@@ -1,0 +1,209 @@
+.p-Home.Flex1 {
+    background: radial-gradient(at 72% -75%, #c66864 24%, transparent 47%),
+            radial-gradient(at 51% -70%, #c66864 0%, transparent 50%),
+            radial-gradient(at 30% -90%, rgba(94,62,246,0.99) 25%, transparent 49%);
+
+    background-color: black;
+
+
+}
+.p-Home.Flex160::before {
+    content: "";
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(
+        45deg,
+        hsl(41deg 54% 63%) 0%,
+        hsl(29deg 55% 61%) 17%,
+        hsl(16deg 56% 60%) 33%,
+        hsl(11deg 48% 53%) 50%,
+        hsl(3deg 50% 45%) 67%,
+        hsl(318deg 43% 44%) 83%,
+        hsl(283deg 46% 47%) 100%
+      );
+    transform: translate3d(0px, 50%, 0) scale(0.75);
+    filter: blur(20px);
+    // opacity: var(0.7);
+    transition: opacity 0.3s;
+    border-radius: inherit;
+}
+
+.p-Home.Flex160::after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    border-radius: inherit;
+}
+        
+
+@keyframes marquee {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: -100%;
+    }
+}
+
+.p-Home.Flex788 {
+    // width: 300%;
+    // top:90%;
+    animation: marquee 50s linear infinite;
+    background-color: aqua;
+}
+
+// Review section code start
+
+// card1 code start
+
+.p-Home.Flex878lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Flex874card:hover .Flex878lay {
+    top: 0;
+}
+
+.p-Home.Flex874card:hover .TextBox637 {
+    color: #fff;
+}
+.p-Home.Flex812{
+-webkit-box-reflect: below 1px linear-gradient(transparent 70%,#0009);
+}
+// card1 code end
+
+
+// card 2 code start
+.p-Home.Flex888lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Flex890card:hover .Flex888lay {
+    top: 0;
+}
+
+.p-Home.Flex890card:hover .TextBox641 {
+    color: #fff;
+}
+
+// card 2 code end
+
+
+// card 3 code start here
+
+.p-Home.Flex882lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Flex884card:hover .Flex882lay {
+    top: 0;
+}
+
+.p-Home.Flex884card:hover .TextBox638 {
+    color: #fff;
+}
+
+// card 3 code end here
+
+
+// card 4 code start here
+.p-Home.Flex904lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Flex908card:hover .Flex904lay {
+    top: 0;
+}
+.p-Home.Flex908card:hover .TextBox648 {
+    color: #fff;
+}
+
+// card 4 code end here
+
+// card5 code start 
+.p-Home.Flex901lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Flex906card:hover .Flex901lay {
+    top: 0;
+}
+.p-Home.Flex906card:hover .TextBox645 {
+    color: #fff;
+}
+// card5 code end
+
+// card 6 code start
+.p-Home.Flex903lay {
+    background-image: linear-gradient(#03a9f4, #e91ee3);
+    transition: 0.5s;
+    top: calc(100% - 10px);
+}
+.p-Home.Flex907card:hover .Flex903lay {
+    top: 0;
+}
+
+.p-Home.Flex907card:hover .TextBox647 {
+    color: #fff;
+}
+// card 7 code end
+@keyframes marquees {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: -105%;
+    }
+}
+.p-Home.Flex871 {
+    animation: marquees 20s linear infinite;
+    
+}
+
+.p-Home.Flex871{
+    -webkit-box-reflect: below 1px linear-gradient(transparent 70% , #0009);
+}
+
+
+// review code section end
+@media screen and (max-width: 991px) {
+    .p-Home.Flex160::before{
+        transform: translate3d(0px, 50%, 0) scale(0.72);
+        margin-top: 10%;
+        margin-bottom: 3%;
+    }
+  }
+  @media screen and (max-width: 820px) {
+    .p-Home.Flex160::before{
+        transform: translate3d(0px, 57%, 0) scale(0.69,0.56);
+       
+
+     
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .p-Home.Flex160::before{
+        transform: translate3d(-44%, 0%, 0) scale(0.55,0.63);
+        rotate: 270deg;
+        
+       
+
+     
+    }
+  }
