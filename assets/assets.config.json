@@ -205,5 +205,17 @@
   },
   "nhs-logo.svg": {
     "mime": "image/svg+xml"
+  },
+  "exl.jpg": {
+    "mime": "image/jpeg"
+  },
+  "jay.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "devesh.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "arnab.jpeg": {
+    "mime": "image/jpeg"
   }
 }
