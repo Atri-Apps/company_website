@@ -129,9 +129,8 @@ export function useTextBox8Cb() {
   "handlers": [
     {
       "navigate": {
-        "type": "external",
-        "url": "https://github.com/Atri-Apps",
-        "target": "_blank"
+        "type": "internal",
+        "url": "/Showcase"
       }
     }
   ],
@@ -547,7 +546,10 @@ export function useTextBox64Cb() {
 			{
   "handlers": [
     {
-      "sendEventData": true
+      "navigate": {
+        "type": "internal",
+        "url": "/Showcase"
+      }
     }
   ],
   "actions": [
