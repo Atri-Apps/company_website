@@ -72,7 +72,7 @@ const desktopModeProps = {
     },
     "Menu1": {
       "custom": {
-        "open": false,
+        "open": true,
         "iconHeight": 24,
         "iconWidth": 36,
         "alignRight": true,
@@ -519,9 +519,8 @@ const desktopModeProps = {
         "onClick": [
           {
             "navigate": {
-              "type": "external",
-              "url": "https://github.com/Atri-Apps",
-              "target": "_blank"
+              "type": "internal",
+              "url": "/Showcase"
             }
           }
         ]
@@ -644,7 +643,10 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Showcase"
+            }
           }
         ]
       }
@@ -4189,7 +4191,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_1": {
       "custom": {
-        "text": "ocr"
+        "text": "open-source"
       },
       "callbacks": {
         "onClick": [
@@ -4201,7 +4203,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_2": {
       "custom": {
-        "text": "machine-learning"
+        "text": "ocr"
       },
       "callbacks": {
         "onClick": [
@@ -4213,7 +4215,7 @@ const desktopModeProps = {
     },
     "Filter_Btn_3": {
       "custom": {
-        "text": "open-source"
+        "text": "machine-learning"
       },
       "callbacks": {
         "onClick": [
