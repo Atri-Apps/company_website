@@ -1645,16 +1645,17 @@ color: #039af4;
 display: none;
 	}
 	.p-Home.Flex6.bpt {
-flex-direction: column;
-column-gap: ;
-row-gap: 16px;
-margin-top: 30px;
-align-items: flex-end;
-width: 100px;
-font-family: IBM Plex Sans;
-font-weight: 400;
-color: #ffffff;
-font-size: 18px;
+		gap: 10px;
+		translate: -150px;
+		flex-direction: row;
+		row-gap: 16px;
+		margin-top: 30px;
+		align-items: flex-start;
+		width: 100px;
+		font-family: IBM Plex Sans;
+		font-weight: 400;
+		color: #ffffff;
+		font-size: 18px;
 	}
 	.p-Home.Flex62.bpt {
 flex-direction: column;
@@ -1817,7 +1818,6 @@ width: 100%;
 	}
 	.p-Home.Flex85.bpt {
 flex-direction: row;
-row-gap: ;
 	}
 	.p-Home.Flex227.bpt {
 justify-content: center;
