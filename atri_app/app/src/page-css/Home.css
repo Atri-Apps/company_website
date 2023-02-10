@@ -1645,6 +1645,7 @@ color: #039af4;
 	.p-Home.Flex10.bpt {
 display: none;
 	}
+<<<<<<< HEAD
 	.p-Home.Flex6.bpt {
 flex-direction: column;
 column-gap: ;
@@ -1657,6 +1658,8 @@ font-weight: 400;
 color: #ffffff;
 font-size: 18px;
 	}
+=======
+>>>>>>> 850e64b... fixed menu display error and z-index issue
 	.p-Home.Flex62.bpt {
 flex-direction: column;
 row-gap: 60px;
@@ -1807,11 +1810,17 @@ align-items: center;
 	.p-Home.Flex9.bpt {
 display: none;
 	}
-	.p-Home.Menu1.bpt {
-display: flex;
-cursor: pointer;
-color: #000000;
-align-items: center;
+	.p-Home.Flex6.bpt {
+flex-direction: column;
+column-gap: ;
+row-gap: 16px;
+margin-top: 30px;
+align-items: flex-end;
+width: 100px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #ffffff;
+font-size: 18px;
 	}
 	.p-Home.Flex60.bpt {
 width: 100%;
@@ -1881,6 +1890,12 @@ text-align: center;
 text-align: center;
 font-size: 36px;
 	}
+	.p-Home.Menu1.bpt {
+display: flex;
+cursor: pointer;
+color: #000000;
+align-items: center;
+	}
 	.p-Home.Flex788.bpt {
 width: 300%;
 column-gap: 40px;
@@ -1903,10 +1918,28 @@ padding-right: ;
 	}
 }
 @media screen and (max-width: 767px) {
+	.p-Home.Flex6.bpt {
+flex-direction: row;
+align-items: center;
+justify-content: flex-start;
+flex-wrap: nowrap;
+align-content: center;
+row-gap: 10px;
+align-self: flex-start;
+column-gap: 10px;
+position: relative;
+right: 150px;
+	}
 	.p-Home.Div40.bpt {
 overflow: scroll;
 padding-bottom: 50px;
 padding-top: 50px;
+	}
+	.p-Home.Image38.bpt {
+z-index: 0;
+	}
+	.p-Home.Menu1.bpt {
+float: none;
 	}
 	.p-Home.Div1.bpt {
 overflow: hidden;
