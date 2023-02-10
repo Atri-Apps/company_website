@@ -234,7 +234,7 @@ export function useMenu1Cb() {
       "type": "controlled",
       "selector": [
         "custom",
-        "close"
+        "open"
       ]
     }
   ]

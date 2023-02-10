@@ -72,7 +72,7 @@ const desktopModeProps = {
     },
     "Menu1": {
       "custom": {
-        "open": true,
+        "open": false,
         "iconHeight": 24,
         "iconWidth": 36,
         "alignRight": true,
